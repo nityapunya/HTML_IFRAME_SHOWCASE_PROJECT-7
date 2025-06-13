@@ -12,3 +12,8 @@ body
     max-width: 90%;
     margin: 20px auto;
 }
+.embed-container
+{
+    background-color: gray;
+    margin-bottom: 20px;
+}
